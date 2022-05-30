@@ -1,0 +1,2120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="marketing_initiative" table="x_217463_digital_0_marketing_project" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>marketing_initiative</element>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:37</sys_created_on>
+            <sys_id>c4924a5d2f5001105706e83df699b6d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>marketing_initiative</sys_name>
+            <sys_package display_value="Digital Assets" source="x_217463_digital_0">781d21552f1001105706e83df699b63d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Digital Assets">781d21552f1001105706e83df699b63d</sys_scope>
+            <sys_update_name>sys_choice_x_217463_digital_0_marketing_project_marketing_initiative</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:37</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2015 Beyond Dollars</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c924a5d2f5001105706e83df699b6d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:37</sys_updated_on>
+            <value>2015 Beyond Dollars</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2016 Bulletins/Communications</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2c928a5d2f5001105706e83df699b641</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:38</sys_updated_on>
+            <value>2016 Bulletins/Communications</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2016 Consolidated Client Workshops</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fd92ca5d2f5001105706e83df699b613</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:43</sys_updated_on>
+            <value>2016 Consolidated Client Workshops</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2016 Cost of Care</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>89928a5d2f5001105706e83df699b69c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:41</sys_updated_on>
+            <value>2016 Cost of Care</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2016 Digital - Run the Shop</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>21928a5d2f5001105706e83df699b6eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:42</sys_updated_on>
+            <value>2016 Digital - Run the Shop</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2016 Group LTC</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4e92ca5d2f5001105706e83df699b658</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:44</sys_updated_on>
+            <value>2016 Group LTC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2016 IFA Bulletins</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1692ca5d2f5001105706e83df699b6ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:46</sys_updated_on>
+            <value>2016 IFA Bulletins</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2016 Non-Project Specific - Forms</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9292ca5d2f5001105706e83df699b6b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:46</sys_updated_on>
+            <value>2016 Non-Project Specific - Forms</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2016 Non-Project Specific - Marketing</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6a92ca5d2f5001105706e83df699b6b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:46</sys_updated_on>
+            <value>2016 Non-Project Specific - Marketing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2016 RVP Newsletter - LTC</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8292ca5d2f5001105706e83df699b672</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:45</sys_updated_on>
+            <value>2016 RVP Newsletter - LTC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2017 Bulletins/Communications</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d292ca5d2f5001105706e83df699b685</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:45</sys_updated_on>
+            <value>2017 Bulletins/Communications</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2017 Cost of Care</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9292ca5d2f5001105706e83df699b695</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:45</sys_updated_on>
+            <value>2017 Cost of Care</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2017 Digital - Run the Shop</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>da92ca5d2f5001105706e83df699b6ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:46</sys_updated_on>
+            <value>2017 Digital - Run the Shop</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2017 Non-Project Specific - Forms</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a692ca5d2f5001105706e83df699b6ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:47</sys_updated_on>
+            <value>2017 Non-Project Specific - Forms</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2017 Non-Project Specific - Marketing</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6e920e5d2f5001105706e83df699b602</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:47</sys_updated_on>
+            <value>2017 Non-Project Specific - Marketing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2018 Bulletins/Communications</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2292ca5d2f5001105706e83df699b6b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:46</sys_updated_on>
+            <value>2018 Bulletins/Communications</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2018 Cost of Care</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e292ca5d2f5001105706e83df699b6ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:46</sys_updated_on>
+            <value>2018 Cost of Care</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2018 Digital - Run the Shop</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aa92ca5d2f5001105706e83df699b6f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:46</sys_updated_on>
+            <value>2018 Digital - Run the Shop</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2018 Non-Project Specific - Forms</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>32920e5d2f5001105706e83df699b614</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:47</sys_updated_on>
+            <value>2018 Non-Project Specific - Forms</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2018 Non-Project Specific - Marketing</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f6920e5d2f5001105706e83df699b617</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:47</sys_updated_on>
+            <value>2018 Non-Project Specific - Marketing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2018 Sales Center Pages Revisions</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6292ca5d2f5001105706e83df699b6f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:46</sys_updated_on>
+            <value>2018 Sales Center Pages Revisions</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2019 B2B Group Marketing</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2a92ca5d2f5001105706e83df699b6f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:47</sys_updated_on>
+            <value>2019 B2B Group Marketing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2019 Bulletins/Communications</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ee92ca5d2f5001105706e83df699b6fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:47</sys_updated_on>
+            <value>2019 Bulletins/Communications</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2019 Cost of Care</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>26920e5d2f5001105706e83df699b606</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:47</sys_updated_on>
+            <value>2019 Cost of Care</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2019 Digital - Run the Shop</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fa920e5d2f5001105706e83df699b609</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:47</sys_updated_on>
+            <value>2019 Digital - Run the Shop</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2019 LTC Individual Reengagement</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b2920e5d2f5001105706e83df699b60d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:47</sys_updated_on>
+            <value>2019 LTC Individual Reengagement</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2019 Non-Project Specific - Forms</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cb920e5d2f5001105706e83df699b636</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:48</sys_updated_on>
+            <value>2019 Non-Project Specific - Forms</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2019 Non-Project Specific - Marketing</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4b920e5d2f5001105706e83df699b63d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:49</sys_updated_on>
+            <value>2019 Non-Project Specific - Marketing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2019 Sales Center Pages Revisions</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7a920e5d2f5001105706e83df699b610</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:47</sys_updated_on>
+            <value>2019 Sales Center Pages Revisions</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2019 SOCC Ads</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>be920e5d2f5001105706e83df699b61a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:47</sys_updated_on>
+            <value>2019 SOCC Ads</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2019 Telesales Contacts</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>76920e5d2f5001105706e83df699b61e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:48</sys_updated_on>
+            <value>2019 Telesales Contacts</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2020 - The Download Newsletter</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3e920e5d2f5001105706e83df699b621</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:48</sys_updated_on>
+            <value>2020 - The Download Newsletter</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2020 B2B Group Marketing</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f2920e5d2f5001105706e83df699b625</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:48</sys_updated_on>
+            <value>2020 B2B Group Marketing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2020 Brand Projects</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ba920e5d2f5001105706e83df699b628</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:48</sys_updated_on>
+            <value>2020 Brand Projects</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2020 Bulletins/Communications</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>43920e5d2f5001105706e83df699b62c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:48</sys_updated_on>
+            <value>2020 Bulletins/Communications</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2020 Cost of Care</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4f920e5d2f5001105706e83df699b62f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:48</sys_updated_on>
+            <value>2020 Cost of Care</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2020 Digital - Run the Shop</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>07920e5d2f5001105706e83df699b633</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:48</sys_updated_on>
+            <value>2020 Digital - Run the Shop</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2020 Non-Project Specific - Forms</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eb920e5d2f5001105706e83df699b676</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:50</sys_updated_on>
+            <value>2020 Non-Project Specific - Forms</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2020 Non-Project Specific - Marketing</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>27920e5d2f5001105706e83df699b673</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:50</sys_updated_on>
+            <value>2020 Non-Project Specific - Marketing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2021 Brand Projects</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>23920e5d2f5001105706e83df699b681</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:51</sys_updated_on>
+            <value>2021 Brand Projects</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2021 Bulletins/Communications</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bf920e5d2f5001105706e83df699b690</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:51</sys_updated_on>
+            <value>2021 Bulletins/Communications</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2021 Cost of Care</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f3920e5d2f5001105706e83df699b69b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:51</sys_updated_on>
+            <value>2021 Cost of Care</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2021 Digital Run the Shop</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>73920e5d2f5001105706e83df699b6ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:52</sys_updated_on>
+            <value>2021 Digital Run the Shop</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2021 Non-Project Specific Forms</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b7920e5d2f5001105706e83df699b6b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:52</sys_updated_on>
+            <value>2021 Non-Project Specific Forms</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2021 Non-Project Specific Marketing</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4ca20e5d2f5001105706e83df699b6b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:52</sys_updated_on>
+            <value>2021 Non-Project Specific Marketing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2Q19 Acquisition</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>83920e5d2f5001105706e83df699b63a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:49</sys_updated_on>
+            <value>2Q19 Acquisition</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Advance Sales Materials</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>03920e5d2f5001105706e83df699b641</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:49</sys_updated_on>
+            <value>Advance Sales Materials</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Associations/Affinity Projects</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d7920e5d2f5001105706e83df699b644</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:49</sys_updated_on>
+            <value>Associations/Affinity Projects</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Beyond Dollars</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c4a20e5d2f5001105706e83df699b6cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:53</sys_updated_on>
+            <value>Beyond Dollars</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Beyond Dollars 2015</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>57920e5d2f5001105706e83df699b654</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:49</sys_updated_on>
+            <value>Beyond Dollars 2015</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Beyond Dollars OYB Promotion</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1f920e5d2f5001105706e83df699b657</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:49</sys_updated_on>
+            <value>Beyond Dollars OYB Promotion</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CareScout</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d3920e5d2f5001105706e83df699b65b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:49</sys_updated_on>
+            <value>CareScout</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CareScout B2B Sales Emails</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9b920e5d2f5001105706e83df699b65e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:50</sys_updated_on>
+            <value>CareScout B2B Sales Emails</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Claims LTCI Stories</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>53920e5d2f5001105706e83df699b662</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:50</sys_updated_on>
+            <value>Claims LTCI Stories</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Combo Product</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1b920e5d2f5001105706e83df699b665</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:50</sys_updated_on>
+            <value>Combo Product</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Consolidated Client Workshops - 2016</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>df920e5d2f5001105706e83df699b668</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:50</sys_updated_on>
+            <value>Consolidated Client Workshops - 2016</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>COVID-19 Updates</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a7920e5d2f5001105706e83df699b66c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:50</sys_updated_on>
+            <value>COVID-19 Updates</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Customer Service Projects (Lynchburg)</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6f920e5d2f5001105706e83df699b66f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:50</sys_updated_on>
+            <value>Customer Service Projects (Lynchburg)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Element Launch</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3920e5d2f5001105706e83df699b67a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:51</sys_updated_on>
+            <value>Element Launch</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Flex 3 Additional States</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6b920e5d2f5001105706e83df699b67d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:51</sys_updated_on>
+            <value>Flex 3 Additional States</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Group LTC 7053 New Red</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77920e5d2f5001105706e83df699b694</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:51</sys_updated_on>
+            <value>Group LTC 7053 New Red</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Group LTC 7053 Old Red</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3f920e5d2f5001105706e83df699b697</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:51</sys_updated_on>
+            <value>Group LTC 7053 Old Red</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Group LTC 7054</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b920e5d2f5001105706e83df699b6ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:52</sys_updated_on>
+            <value>Group LTC 7054</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Group LTC California Marketing Materials</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ff920e5d2f5001105706e83df699b6b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:52</sys_updated_on>
+            <value>Group LTC California Marketing Materials</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Group LTC Retargeting Project</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>04a20e5d2f5001105706e83df699b6bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:52</sys_updated_on>
+            <value>Group LTC Retargeting Project</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IFA Bulletins</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c8a20e5d2f5001105706e83df699b6bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:52</sys_updated_on>
+            <value>IFA Bulletins</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IFA Bulletins 2016</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>80a20e5d2f5001105706e83df699b6c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:52</sys_updated_on>
+            <value>IFA Bulletins 2016</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IFA Consumer Website</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48a20e5d2f5001105706e83df699b6c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:53</sys_updated_on>
+            <value>IFA Consumer Website</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IFA Producer Resources</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>00a20e5d2f5001105706e83df699b6ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:53</sys_updated_on>
+            <value>IFA Producer Resources</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>INA Rename Project</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8ca20e5d2f5001105706e83df699b6d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:53</sys_updated_on>
+            <value>INA Rename Project</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LTC Group 7054 Forms</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>54a20e5d2f5001105706e83df699b6d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:53</sys_updated_on>
+            <value>LTC Group 7054 Forms</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LTC New Group Forms</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ca20e5d2f5001105706e83df699b6d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:53</sys_updated_on>
+            <value>LTC New Group Forms</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Monthly TRPs</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>50a20e5d2f5001105706e83df699b6f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:54</sys_updated_on>
+            <value>Monthly TRPs</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MyGenworth.com</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>09a24e5d2f5001105706e83df699b64a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:57</sys_updated_on>
+            <value>MyGenworth.com</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New Online Chat Functionality</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>18a20e5d2f5001105706e83df699b6f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:54</sys_updated_on>
+            <value>New Online Chat Functionality</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NewCo - Forms</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dca20e5d2f5001105706e83df699b6fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:54</sys_updated_on>
+            <value>NewCo - Forms</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NewCo - Marketing</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a4a20e5d2f5001105706e83df699b6fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:54</sys_updated_on>
+            <value>NewCo - Marketing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Non-Project Specific 2016 - Forms</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6ca24e5d2f5001105706e83df699b601</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:54</sys_updated_on>
+            <value>Non-Project Specific 2016 - Forms</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Non-Project Specific 2016 - Marketing</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>24a24e5d2f5001105706e83df699b605</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:54</sys_updated_on>
+            <value>Non-Project Specific 2016 - Marketing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Non-Project Specific 2017 - Forms</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e8a24e5d2f5001105706e83df699b608</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:55</sys_updated_on>
+            <value>Non-Project Specific 2017 - Forms</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Non-Project Specific 2017 - Marketing</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>68a24e5d2f5001105706e83df699b618</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:55</sys_updated_on>
+            <value>Non-Project Specific 2017 - Marketing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Non-Project Specific 2018 - Forms</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aca24e5d2f5001105706e83df699b61b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:55</sys_updated_on>
+            <value>Non-Project Specific 2018 - Forms</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Non-Project Specific 2018 - Marketing</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e0a24e5d2f5001105706e83df699b61f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:55</sys_updated_on>
+            <value>Non-Project Specific 2018 - Marketing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Non-Project Specific 2019 - Forms</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>78a24e5d2f5001105706e83df699b622</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:55</sys_updated_on>
+            <value>Non-Project Specific 2019 - Forms</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Non-Project Specific 2019 - Marketing</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f4a24e5d2f5001105706e83df699b632</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:55</sys_updated_on>
+            <value>Non-Project Specific 2019 - Marketing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Non-Project Specific Forms - 2020</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bca24e5d2f5001105706e83df699b635</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:56</sys_updated_on>
+            <value>Non-Project Specific Forms - 2020</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Non-Project Specific Marketing - 2020</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>74a24e5d2f5001105706e83df699b639</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:56</sys_updated_on>
+            <value>Non-Project Specific Marketing - 2020</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Oceanwide/Genworth Acquisition Announcements</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>55a24e5d2f5001105706e83df699b6a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:57</sys_updated_on>
+            <value>Oceanwide/Genworth Acquisition Announcements</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Online Chat Systems Scripts and Training</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3ca24e5d2f5001105706e83df699b63c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:56</sys_updated_on>
+            <value>Online Chat Systems Scripts and Training</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Partnership - Underwritten SPIA - Core Product Materials</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f0a24e5d2f5001105706e83df699b640</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:56</sys_updated_on>
+            <value>Partnership - Underwritten SPIA - Core Product Materials</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Performance Numbers</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>89a24e5d2f5001105706e83df699b643</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:56</sys_updated_on>
+            <value>Performance Numbers</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Prela</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>41a24e5d2f5001105706e83df699b647</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:56</sys_updated_on>
+            <value>Prela</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Proper LTC Campaign</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cda24e5d2f5001105706e83df699b64d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:57</sys_updated_on>
+            <value>Proper LTC Campaign</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Recomply</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>85a24e5d2f5001105706e83df699b651</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:57</sys_updated_on>
+            <value>Recomply</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Red Dot Campaign</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4da24e5d2f5001105706e83df699b654</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:57</sys_updated_on>
+            <value>Red Dot Campaign</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RIA Marketing Materials</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9da24e5d2f5001105706e83df699b6a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:57</sys_updated_on>
+            <value>RIA Marketing Materials</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Savings Campaign</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>99a24e5d2f5001105706e83df699b6a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:58</sys_updated_on>
+            <value>Savings Campaign</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ServeCo</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>51a24e5d2f5001105706e83df699b6ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:58</sys_updated_on>
+            <value>ServeCo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Telesales</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d1a28e5d2f5001105706e83df699b614</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:58</sys_updated_on>
+            <value>Telesales</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Telesales Contacts</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a9a28e5d2f5001105706e83df699b618</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:58</sys_updated_on>
+            <value>Telesales Contacts</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Telesales Training</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>61a28e5d2f5001105706e83df699b61c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:58</sys_updated_on>
+            <value>Telesales Training</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Time is Money Campaign</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a9a28e5d2f5001105706e83df699b61f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:59</sys_updated_on>
+            <value>Time is Money Campaign</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tranzact Marketing</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e1a28e5d2f5001105706e83df699b623</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:59</sys_updated_on>
+            <value>Tranzact Marketing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Underwriting:Multi Stage &amp; Expanded Impairments</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2da28e5d2f5001105706e83df699b626</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:59</sys_updated_on>
+            <value>Underwriting:Multi Stage &amp; Expanded Impairments</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marketing_initiative</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>xxxTest Onlyxxx</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2da28e5d2f5001105706e83df699b636</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:59</sys_updated_on>
+            <value>xxxTest Onlyxxx</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

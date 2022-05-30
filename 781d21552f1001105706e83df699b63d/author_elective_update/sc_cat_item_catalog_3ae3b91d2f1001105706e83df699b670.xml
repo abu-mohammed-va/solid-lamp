@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Activity">c52079192f1001105706e83df699b6ec</sc_cat_item>
+        <sc_catalog display_value="Resources">8752afd953133300a8ed21fac2dc34ac</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-07 11:37:37</sys_created_on>
+        <sys_id>3ae3b91d2f1001105706e83df699b670</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Resources.Activity</sys_name>
+        <sys_package display_value="Digital Assets" source="x_217463_digital_0">781d21552f1001105706e83df699b63d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Digital Assets">781d21552f1001105706e83df699b63d</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_3ae3b91d2f1001105706e83df699b670</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-07 11:37:37</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Digital Assets">781d21552f1001105706e83df699b63d</application>
+        <file_path/>
+        <instance_id>cbc77a4edb13c41842b321c405961993</instance_id>
+        <instance_name>dev102093</instance_name>
+        <name>sc_cat_item_catalog_3ae3b91d2f1001105706e83df699b670</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Activity">c52079192f1001105706e83df699b6ec</sc_cat_item><sc_catalog display_value="Resources">8752afd953133300a8ed21fac2dc34ac</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-07 11:37:37</sys_created_on><sys_id>3ae3b91d2f1001105706e83df699b670</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Resources.Activity</sys_name><sys_package display_value="Digital Assets" source="x_217463_digital_0">781d21552f1001105706e83df699b63d</sys_package><sys_policy/><sys_scope display_value="Digital Assets">781d21552f1001105706e83df699b63d</sys_scope><sys_update_name>sc_cat_item_catalog_3ae3b91d2f1001105706e83df699b670</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-07 11:37:37</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-224429389</payload_hash>
+        <record_name>Resources.Activity</record_name>
+        <reverted_from/>
+        <source>fb4da5552f1001105706e83df699b690</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-07 11:37:37</sys_created_on>
+        <sys_id>72e3b91d2f1001105706e83df699b683</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d94af516c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-07 11:37:37</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>f6e3b91d471001107fe2bba26bcda882</update_guid>
+        <update_guid_history>f6e3b91d471001107fe2bba26bcda882:-224429389</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Resources.Activity">76147d1d2f1001105706e83df699b6d1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-07 11:38:26</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>8214f3d8fef14b009fafc968ddf44000</sys_id>
+        <sys_metadata>3ae3b91d2f1001105706e83df699b670</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Resources.Activity</sys_name>
+        <sys_package display_value="Digital Assets" source="x_217463_digital_0">781d21552f1001105706e83df699b63d</sys_package>
+        <sys_parent display_value="Activity">c52079192f1001105706e83df699b6ec</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Digital Assets">781d21552f1001105706e83df699b63d</sys_scope>
+        <sys_scope_delete display_value="">3dbfae79a5394601854deaca8a6684b1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_3ae3b91d2f1001105706e83df699b670</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_3ae3b91d2f1001105706e83df699b670">72e3b91d2f1001105706e83df699b683</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-07 11:38:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

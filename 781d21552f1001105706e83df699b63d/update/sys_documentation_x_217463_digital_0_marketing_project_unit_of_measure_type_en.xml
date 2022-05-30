@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="unit_of_measure_type" label="Unit of Measure Type" language="en" table="x_217463_digital_0_marketing_project">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>unit_of_measure_type</element>
+            <help/>
+            <hint/>
+            <label>Unit of Measure Type</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <plural>Unit of Measure Types</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:24</sys_created_on>
+            <sys_id>8982865d2f5001105706e83df699b6a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Unit of Measure Type</sys_name>
+            <sys_package display_value="Digital Assets" source="x_217463_digital_0">781d21552f1001105706e83df699b63d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Digital Assets">781d21552f1001105706e83df699b63d</sys_scope>
+            <sys_update_name>sys_documentation_x_217463_digital_0_marketing_project_unit_of_measure_type_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:24</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

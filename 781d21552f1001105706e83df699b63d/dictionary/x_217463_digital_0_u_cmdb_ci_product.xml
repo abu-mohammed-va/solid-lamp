@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci" label="Product" max_length="40" name="x_217463_digital_0_u_cmdb_ci_product" sizeclass="4" type="collection">
+        <element choice="1" label="Product Category" max_length="40" name="product_category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Fixed Deferred Annuity" value="Fixed Deferred Annuity"/>
+                <element inactive_on_update="false" label="Fixed Immediate Annuity" value="Fixed Immediate Annuity"/>
+                <element inactive_on_update="false" label="Fixed Immediate Annuity" value="Fixed Immediate Annuity"/>
+                <element inactive_on_update="false" label="Long Term Care Group" value="Long Term Care Group"/>
+                <element inactive_on_update="false" label="Long Term Care Group" value="Long Term Care Group"/>
+                <element inactive_on_update="false" label="Long Term Care Individual" value="Long Term Care Individual"/>
+                <element inactive_on_update="false" label="No Longer Sold - Fixed Annuity" value="No Longer Sold - Fixed Annuity"/>
+                <element inactive_on_update="false" label="No Longer Sold - Linked Benefits" value="No Longer Sold - Linked Benefits"/>
+                <element inactive_on_update="false" label="No Longer Sold - LTC" value="No Longer Sold - LTC"/>
+                <element inactive_on_update="false" label="No Longer Sold - Term Life" value="No Longer Sold - Term Life"/>
+                <element inactive_on_update="false" label="No Longer Sold - Universal Life" value="No Longer Sold - Universal Life"/>
+                <element inactive_on_update="false" label="No Longer Sold - Variable Annuity" value="No Longer Sold - Variable Annuity"/>
+                <element inactive_on_update="false" label="No Longer Sold - Variable Life" value="No Longer Sold - Variable Life"/>
+                <element inactive_on_update="false" label="No Longer Sold - Whole Life" value="No Longer Sold - Whole Life"/>
+                <element inactive_on_update="false" label="Service" value="Service"/>
+                <element inactive_on_update="false" label="Service" value="Service"/>
+                <element inactive_on_update="false" label="Whole Life" value="Whole Life"/>
+            </choice>
+        </element>
+        <element choice="1" label="Product line" max_length="40" name="product_line" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Annuity" value="Annuity"/>
+                <element inactive_on_update="false" label="Life" value="Life"/>
+                <element inactive_on_update="false" label="Linked Benefits" value="Linked Benefits"/>
+                <element inactive_on_update="false" label="Long Term Care Insurance" value="Long Term Care Insurance"/>
+                <element inactive_on_update="false" label="Multi-Product" value="Multi-Product"/>
+                <element inactive_on_update="false" label="Non-Product" value="Non-Product"/>
+                <element inactive_on_update="false" label="Service" value="Service"/>
+            </choice>
+        </element>
+        <element choice="1" label="Product Name" max_length="40" name="product_name" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="CareScout" value="CareScout"/>
+                <element inactive_on_update="false" label="CareShield" value="CareShield"/>
+                <element inactive_on_update="false" label="Element" value="Element"/>
+                <element inactive_on_update="false" label="Income Assurance Immediate Need Annuity" value="Income Assurance Immediate Need Annuity"/>
+                <element inactive_on_update="false" label="My Future" value="My Future"/>
+                <element inactive_on_update="false" label="MyFlexible Life" value="MyFlexible Life"/>
+                <element inactive_on_update="false" label="Privleged Choice Flex" value="Privleged Choice Flex"/>
+                <element inactive_on_update="false" label="Privleged Choice Flex 2" value="Privleged Choice Flex 2"/>
+                <element inactive_on_update="false" label="Privleged Choice Flex 3" value="Privleged Choice Flex 3"/>
+                <element inactive_on_update="false" label="Privleged Choice Flex 3" value="Privleged Choice Flex 3"/>
+                <element inactive_on_update="false" label="Privleged Choice Next" value="Privleged Choice Next"/>
+                <element inactive_on_update="false" label="RateSaver" value="RateSaver"/>
+            </choice>
+        </element>
+    </element>
+</database>

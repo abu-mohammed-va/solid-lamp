@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="legal_entity" label="Legal Entity" language="en" table="x_217463_digital_0_activity">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>legal_entity</element>
+            <help/>
+            <hint/>
+            <label>Legal Entity</label>
+            <language>en</language>
+            <name>x_217463_digital_0_activity</name>
+            <plural>Legal Entities</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 11:18:52</sys_created_on>
+            <sys_id>84af2dd52f1001105706e83df699b63d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Legal Entity</sys_name>
+            <sys_package display_value="Digital Assets" source="x_217463_digital_0">781d21552f1001105706e83df699b63d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Digital Assets">781d21552f1001105706e83df699b63d</sys_scope>
+            <sys_update_name>sys_documentation_x_217463_digital_0_activity_legal_entity_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 11:18:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

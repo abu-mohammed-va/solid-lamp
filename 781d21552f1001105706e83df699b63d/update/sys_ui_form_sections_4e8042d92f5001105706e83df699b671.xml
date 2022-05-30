@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="4e8042d92f5001105706e83df699b671" sys_domain="global" table="x_217463_digital_0_activity" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:32:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4a8042d92f5001105706e83df699b672</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_217463_digital_0_activity" name="x_217463_digital_0_activity" sys_domain="global" view="Default view">4e8042d92f5001105706e83df699b671</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_217463_digital_0_activity" sys_domain="global" view="Default view">2fdf65192f1001105706e83df699b62c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:32:44</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:32:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>028042d92f5001105706e83df699b674</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_217463_digital_0_activity" name="x_217463_digital_0_activity" sys_domain="global" view="Default view">4e8042d92f5001105706e83df699b671</sys_ui_form>
+            <sys_ui_section caption="Product details" display_value="Product details" name="x_217463_digital_0_activity" sys_domain="global" view="Default view">828042d92f5001105706e83df699b673</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:32:44</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:54:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b285cedd2f5001105706e83df699b649</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_217463_digital_0_activity" name="x_217463_digital_0_activity" sys_domain="global" view="Default view">4e8042d92f5001105706e83df699b671</sys_ui_form>
+            <sys_ui_section caption="Document details" display_value="Document details" name="x_217463_digital_0_activity" sys_domain="global" view="Default view">ba85cedd2f5001105706e83df699b646</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:54:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:07:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a48802552f9001105706e83df699b612</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_217463_digital_0_activity" name="x_217463_digital_0_activity" sys_domain="global" view="Default view">4e8042d92f5001105706e83df699b671</sys_ui_form>
+            <sys_ui_section caption="Team states" display_value="Team states" name="x_217463_digital_0_activity" sys_domain="global" view="Default view">ec8802552f9001105706e83df699b60f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:07:35</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_217463_digital_0_activity</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:32:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4e8042d92f5001105706e83df699b671</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_217463_digital_0_activity</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Digital Assets" source="x_217463_digital_0">781d21552f1001105706e83df699b63d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Digital Assets">781d21552f1001105706e83df699b63d</sys_scope>
+            <sys_update_name>sys_ui_form_sections_4e8042d92f5001105706e83df699b671</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:32:44</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
