@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="sub_state" table="x_217463_digital_0_marketing_project" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>sub_state</element>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:53:25</sys_created_on>
+            <sys_id>480396912fd001105706e83df699b63b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sub_state</sys_name>
+            <sys_package display_value="Digital Assets" source="x_217463_digital_0">781d21552f1001105706e83df699b63d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Digital Assets">781d21552f1001105706e83df699b63d</sys_scope>
+            <sys_update_name>sys_choice_x_217463_digital_0_marketing_project_sub_state</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:53:25</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Begin Project</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:53:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>baf29e912fd001105706e83df699b64f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:53:25</sys_updated_on>
+            <value>Begin Project</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Business Review</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:53:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d7035a912fd001105706e83df699b6b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:53:39</sys_updated_on>
+            <value>Business Review</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cancelled - never in use</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:55:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>73539e912fd001105706e83df699b65b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:55:02</sys_updated_on>
+            <value>Cancelled - never in use</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:55:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0e639e912fd001105706e83df699b643</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:55:12</sys_updated_on>
+            <value>Closed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Compliance</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:53:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c8235e912fd001105706e83df699b60b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:53:58</sys_updated_on>
+            <value>Compliance</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Copy</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:55:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>697356d12fd001105706e83df699b621</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:55:26</sys_updated_on>
+            <value>Copy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Creative</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:53:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4113de912fd001105706e83df699b689</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:53:45</sys_updated_on>
+            <value>Creative</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Creative Review</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:53:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2213da912fd001105706e83df699b640</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:53:52</sys_updated_on>
+            <value>Creative Review</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Final Review</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:54:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fd3392d12fd001105706e83df699b633</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:54:21</sys_updated_on>
+            <value>Final Review</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>InUse</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:54:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9e4392d12fd001105706e83df699b64e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:54:40</sys_updated_on>
+            <value>InUse</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Prep for QC</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:54:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c333da912fd001105706e83df699b64b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:54:27</sys_updated_on>
+            <value>Prep for QC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>QC</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:54:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f0439a912fd001105706e83df699b6da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:54:34</sys_updated_on>
+            <value>QC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>StateFiling</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:54:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f74312d12fd001105706e83df699b659</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:54:46</sys_updated_on>
+            <value>StateFiling</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Traffic</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:53:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f5035e912fd001105706e83df699b606</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:53:32</sys_updated_on>
+            <value>Traffic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Web Build</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:55:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>677396d12fd001105706e83df699b687</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:55:34</sys_updated_on>
+            <value>Web Build</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Web Final Validation</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:55:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6183d2d12fd001105706e83df699b619</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:55:42</sys_updated_on>
+            <value>Web Final Validation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Web Review</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:55:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4b83d6d12fd001105706e83df699b641</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:55:49</sys_updated_on>
+            <value>Web Review</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Web Validation</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:55:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6c9312d12fd001105706e83df699b601</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:55:55</sys_updated_on>
+            <value>Web Validation</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

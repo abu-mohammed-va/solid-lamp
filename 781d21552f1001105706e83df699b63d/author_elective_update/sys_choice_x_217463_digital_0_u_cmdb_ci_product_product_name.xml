@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="product_name" table="x_217463_digital_0_u_cmdb_ci_product" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>product_name</element>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:29:12</sys_created_on>
+            <sys_id>66bff5592f5001105706e83df699b69d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>product_name</sys_name>
+            <sys_package display_value="Digital Assets" source="x_217463_digital_0">781d21552f1001105706e83df699b63d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Digital Assets">781d21552f1001105706e83df699b63d</sys_scope>
+            <sys_update_name>sys_choice_x_217463_digital_0_u_cmdb_ci_product_product_name</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:29:12</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CareScout</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:30:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ae1086992f5001105706e83df699b63c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:30:51</sys_updated_on>
+            <value>CareScout</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CareShield</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:30:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4420c2992f5001105706e83df699b66b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:30:57</sys_updated_on>
+            <value>CareShield</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Element</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:29:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cedfb9592f5001105706e83df699b638</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:29:43</sys_updated_on>
+            <value>Element</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Income Assurance Immediate Need Annuity</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:29:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ddbff1992f5001105706e83df699b6be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:29:12</sys_updated_on>
+            <value>Income Assurance Immediate Need Annuity</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>My Future</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:29:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dcdf75992f5001105706e83df699b677</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:29:36</sys_updated_on>
+            <value>My Future</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MyFlexible Life</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:29:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>69cf75592f5001105706e83df699b622</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:29:25</sys_updated_on>
+            <value>MyFlexible Life</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Privleged Choice Flex</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:29:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3df3d592f5001105706e83df699b6b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:29:50</sys_updated_on>
+            <value>Privleged Choice Flex</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Privleged Choice Flex 2</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:29:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>45ef35992f5001105706e83df699b6ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:29:56</sys_updated_on>
+            <value>Privleged Choice Flex 2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Privleged Choice Flex 3</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:30:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>13fff5592f5001105706e83df699b6f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:30:22</sys_updated_on>
+            <value>Privleged Choice Flex 3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Privleged Choice Flex 3</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:30:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>beeff1992f5001105706e83df699b672</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:30:03</sys_updated_on>
+            <value>Privleged Choice Flex 3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Privleged Choice Next</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:30:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c1000a992f5001105706e83df699b64b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:30:28</sys_updated_on>
+            <value>Privleged Choice Next</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RateSaver</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:29:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8ccff1992f5001105706e83df699b6c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:29:19</sys_updated_on>
+            <value>RateSaver</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

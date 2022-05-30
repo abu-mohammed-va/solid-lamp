@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="product_category" table="x_217463_digital_0_u_cmdb_ci_product" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>product_category</element>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:25:54</sys_created_on>
+            <sys_id>02fefd192f5001105706e83df699b6ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>product_category</sys_name>
+            <sys_package display_value="Digital Assets" source="x_217463_digital_0">781d21552f1001105706e83df699b63d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Digital Assets">781d21552f1001105706e83df699b63d</sys_scope>
+            <sys_update_name>sys_choice_x_217463_digital_0_u_cmdb_ci_product_product_category</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:25:54</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fixed Deferred Annuity</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:26:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2bfeb5592f5001105706e83df699b614</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:26:01</sys_updated_on>
+            <value>Fixed Deferred Annuity</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fixed Immediate Annuity</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:25:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>49feb5592f5001105706e83df699b611</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:25:54</sys_updated_on>
+            <value>Fixed Immediate Annuity</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fixed Immediate Annuity</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:28:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b47fb9592f5001105706e83df699b644</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:28:00</sys_updated_on>
+            <value>Fixed Immediate Annuity</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Long Term Care Group</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:28:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0a7f3d592f5001105706e83df699b62a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:28:06</sys_updated_on>
+            <value>Long Term Care Group</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Long Term Care Group</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:27:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>745f7d592f5001105706e83df699b629</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:27:28</sys_updated_on>
+            <value>Long Term Care Group</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Long Term Care Individual</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:27:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>da5f3d592f5001105706e83df699b6bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:27:34</sys_updated_on>
+            <value>Long Term Care Individual</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No Longer Sold - Fixed Annuity</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:26:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c90f71592f5001105706e83df699b6b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:26:07</sys_updated_on>
+            <value>No Longer Sold - Fixed Annuity</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No Longer Sold - Linked Benefits</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:27:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ba4ff1592f5001105706e83df699b69c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:27:19</sys_updated_on>
+            <value>No Longer Sold - Linked Benefits</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No Longer Sold - LTC</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:27:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>186fb9192f5001105706e83df699b659</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:27:42</sys_updated_on>
+            <value>No Longer Sold - LTC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No Longer Sold - Term Life</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:26:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>842f79592f5001105706e83df699b6e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:26:35</sys_updated_on>
+            <value>No Longer Sold - Term Life</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No Longer Sold - Universal Life</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:26:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e92fb5592f5001105706e83df699b6b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:26:41</sys_updated_on>
+            <value>No Longer Sold - Universal Life</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No Longer Sold - Variable Annuity</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:26:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>620f39592f5001105706e83df699b641</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:26:12</sys_updated_on>
+            <value>No Longer Sold - Variable Annuity</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No Longer Sold - Variable Life</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:26:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cf2fb5592f5001105706e83df699b693</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:26:47</sys_updated_on>
+            <value>No Longer Sold - Variable Life</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No Longer Sold - Whole Life</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:26:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e83fb9592f5001105706e83df699b64b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:26:53</sys_updated_on>
+            <value>No Longer Sold - Whole Life</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Service</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:26:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>251f39592f5001105706e83df699b648</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:26:25</sys_updated_on>
+            <value>Service</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Service</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:27:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>954f79592f5001105706e83df699b63c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:27:13</sys_updated_on>
+            <value>Service</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Whole Life</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:27:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b33fb9592f5001105706e83df699b6bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:27:07</sys_updated_on>
+            <value>Whole Life</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

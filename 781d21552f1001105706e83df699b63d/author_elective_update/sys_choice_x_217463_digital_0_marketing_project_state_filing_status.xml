@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state_filing_status" table="x_217463_digital_0_marketing_project" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state_filing_status</element>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:37</sys_created_on>
+            <sys_id>d4924a5d2f5001105706e83df699b6ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state_filing_status</sys_name>
+            <sys_package display_value="Digital Assets" source="x_217463_digital_0">781d21552f1001105706e83df699b63d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Digital Assets">781d21552f1001105706e83df699b63d</sys_scope>
+            <sys_update_name>sys_choice_x_217463_digital_0_marketing_project_state_filing_status</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:37</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_filing_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Approval Received</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c924a5d2f5001105706e83df699b6ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:37</sys_updated_on>
+            <value>Approval Received</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_filing_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Final Approval Received, Filing Complete</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>95928a5d2f5001105706e83df699b6af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:41</sys_updated_on>
+            <value>Final Approval Received, Filing Complete</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_filing_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Objection Received</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b8928a5d2f5001105706e83df699b657</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:39</sys_updated_on>
+            <value>Objection Received</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

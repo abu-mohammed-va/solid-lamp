@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="types_of_states_to_file" table="x_217463_digital_0_marketing_project" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>types_of_states_to_file</element>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:37</sys_created_on>
+            <sys_id>c4924a5d2f5001105706e83df699b6d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>types_of_states_to_file</sys_name>
+            <sys_package display_value="Digital Assets" source="x_217463_digital_0">781d21552f1001105706e83df699b63d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Digital Assets">781d21552f1001105706e83df699b63d</sys_scope>
+            <sys_update_name>sys_choice_x_217463_digital_0_marketing_project_types_of_states_to_file</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:37</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>types_of_states_to_file</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>All but NY</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a8928a5d2f5001105706e83df699b63e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:38</sys_updated_on>
+            <value>All but NY</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>types_of_states_to_file</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>All States</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c924a5d2f5001105706e83df699b6d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:37</sys_updated_on>
+            <value>All States</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>types_of_states_to_file</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ICC States (Linked Benefits)</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ad928a5d2f5001105706e83df699b6e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:42</sys_updated_on>
+            <value>ICC States (Linked Benefits)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>types_of_states_to_file</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ICC States (LTC)</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>09928a5d2f5001105706e83df699b699</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:41</sys_updated_on>
+            <value>ICC States (LTC)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>types_of_states_to_file</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Non-ICC States (Linked Benefits)</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4e92ca5d2f5001105706e83df699b63c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:44</sys_updated_on>
+            <value>Non-ICC States (Linked Benefits)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>types_of_states_to_file</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Non-ICC States (LTC)</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7d92ca5d2f5001105706e83df699b610</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:43</sys_updated_on>
+            <value>Non-ICC States (LTC)</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

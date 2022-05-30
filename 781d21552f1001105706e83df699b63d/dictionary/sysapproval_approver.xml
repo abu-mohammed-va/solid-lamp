@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="Approval" max_length="40" name="sysapproval_approver" sizeclass="717" type="collection">
+        <element label="Marketing project" max_length="32" name="x_217463_digital_0_marketing_project" reference="x_217463_digital_0_marketing_project" type="reference"/>
+    </element>
+</database>

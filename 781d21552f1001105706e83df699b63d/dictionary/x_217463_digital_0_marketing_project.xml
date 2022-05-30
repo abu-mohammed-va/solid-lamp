@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="Marketing project" max_length="40" name="x_217463_digital_0_marketing_project" sizeclass="117" type="collection">
+        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Activity" max_length="32" name="activity" reference="x_217463_digital_0_activity" type="reference"/>
+        <element label="Comments and Work notes" max_length="4000" name="comments_and_work_notes" type="journal_list"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Compliance NIGO Reason" max_length="40" name="compliance_nigo_reason" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Not Business Reviewed" sequence="0" value="Not Business Reviewed"/>
+                <element inactive_on_update="false" label="Reviewer Not Present" sequence="0" value="Reviewer Not Present"/>
+                <element inactive_on_update="false" label="Wrong Document Loaded" sequence="0" value="Wrong Document Loaded"/>
+                <element inactive_on_update="false" label="Wrong Invitees" sequence="0" value="Wrong Invitees"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Copy NIGO Reason" max_length="40" name="copy_nigo_reason" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Markup unclear" sequence="0" value="Markup unclear"/>
+                <element inactive_on_update="false" label="Markup/Outline not received" sequence="0" value="Markup/Outline not received"/>
+                <element inactive_on_update="false" label="Other Reason" sequence="0" value="Other Reason"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Cost Allocation" max_length="40" name="cost_allocation" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Acquisition" sequence="0" value="Acquisition"/>
+                <element inactive_on_update="false" label="Base" sequence="0" value="Base"/>
+                <element inactive_on_update="false" label="CareScout" sequence="0" value="CareScout"/>
+                <element inactive_on_update="false" label="Cross Marketing Annuity" sequence="0" value="Cross Marketing Annuity"/>
+                <element inactive_on_update="false" label="Cross Marketing Life" sequence="0" value="Cross Marketing Life"/>
+                <element inactive_on_update="false" label="HQ" sequence="0" value="HQ"/>
+                <element inactive_on_update="false" label="IFA" sequence="0" value="IFA"/>
+                <element inactive_on_update="false" label="LeadGen" sequence="0" value="LeadGen"/>
+                <element inactive_on_update="false" label="Remarketing" sequence="0" value="Remarketing"/>
+                <element inactive_on_update="false" label="ServCo" sequence="0" value="ServCo"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Creative NIGO Reason" max_length="40" name="creative_nigo_reason" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Copy Unclear" sequence="0" value="Copy Unclear"/>
+                <element inactive_on_update="false" label="Markup Unclear" sequence="0" value="Markup Unclear"/>
+                <element inactive_on_update="false" label="Markup/Outline not received" sequence="0" value="Markup/Outline not received"/>
+                <element inactive_on_update="false" label="Other Reason" sequence="0" value="Other Reason"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Distribution NIGO Reason" max_length="40" name="distribution_nigo_reason" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Distribution Instructions Unclear" sequence="0" value="Distribution Instructions Unclear"/>
+                <element inactive_on_update="false" label="Other Reason" sequence="0" value="Other Reason"/>
+                <element inactive_on_update="false" label="Piece has Typos" sequence="0" value="Piece has Typos"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="DML Audience" max_length="40" name="dml_audience" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="External" sequence="0" value="External"/>
+                <element inactive_on_update="false" label="Internal" sequence="0" value="Internal"/>
+            </choice>
+        </element>
+        <element label="Document" max_length="32" name="document" reference="ds_document" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Filing Type" max_length="40" name="filing_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Institutional" sequence="0" value="Institutional"/>
+                <element inactive_on_update="false" label="Invitation in Inquire" sequence="0" value="Invitation in Inquire"/>
+                <element inactive_on_update="false" label="Invitation to Contract" sequence="0" value="Invitation to Contract"/>
+                <element inactive_on_update="false" label="N/A" sequence="0" value="N/A"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Final Deliverable" max_length="40" name="final_deliverable" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Event AV support only" sequence="0" value="Event AV support only"/>
+                <element inactive_on_update="false" label="File for Live Event Playback" sequence="0" value="File for Live Event Playback"/>
+                <element inactive_on_update="false" label="File for web or mobile deployment(if chosen, indicate the file type and website name)" sequence="0" value="File for web or mobile deployment(if chosen, indicate the file type and website name)"/>
+                <element inactive_on_update="false" label="File to embed in PowerPoint(if chosen, indicate the file type)" sequence="0" value="File to embed in PowerPoint(if chosen, indicate the file type)"/>
+                <element inactive_on_update="false" label="N/A" sequence="0" value="N/A"/>
+                <element inactive_on_update="false" label="Other media types(specify)" sequence="0" value="Other media types(specify)"/>
+                <element inactive_on_update="false" label="Photo files or prints(specify)" sequence="0" value="Photo files or prints(specify)"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Firm Filing Status?" max_length="40" name="firm_filing_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approval Received" sequence="0" value="Approval Received"/>
+                <element inactive_on_update="false" label="Final Approval Received, Filing Complete" sequence="0" value="Final Approval Received, Filing Complete"/>
+                <element inactive_on_update="false" label="Objection Received" sequence="0" value="Objection Received"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Is a new webpage being built, or an existing one being modified?" max_length="40" name="is_a_new_webpage_being_built_or_an_existing_one_being_modified" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Modify" sequence="0" value="Modify"/>
+                <element inactive_on_update="false" label="New" sequence="0" value="New"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Job Type" max_length="40" name="job_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Modify" sequence="0" value="Modify"/>
+                <element inactive_on_update="false" label="New" sequence="0" value="New"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Marketing Initiative" max_length="40" name="marketing_initiative" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="2015 Beyond Dollars" sequence="0" value="2015 Beyond Dollars"/>
+                <element inactive_on_update="false" label="2016 Bulletins/Communications" sequence="0" value="2016 Bulletins/Communications"/>
+                <element inactive_on_update="false" label="2016 Consolidated Client Workshops" sequence="0" value="2016 Consolidated Client Workshops"/>
+                <element inactive_on_update="false" label="2016 Cost of Care" sequence="0" value="2016 Cost of Care"/>
+                <element inactive_on_update="false" label="2016 Digital - Run the Shop" sequence="0" value="2016 Digital - Run the Shop"/>
+                <element inactive_on_update="false" label="2016 Group LTC" sequence="0" value="2016 Group LTC"/>
+                <element inactive_on_update="false" label="2016 IFA Bulletins" sequence="0" value="2016 IFA Bulletins"/>
+                <element inactive_on_update="false" label="2016 Non-Project Specific - Forms" sequence="0" value="2016 Non-Project Specific - Forms"/>
+                <element inactive_on_update="false" label="2016 Non-Project Specific - Marketing" sequence="0" value="2016 Non-Project Specific - Marketing"/>
+                <element inactive_on_update="false" label="2016 RVP Newsletter - LTC" sequence="0" value="2016 RVP Newsletter - LTC"/>
+                <element inactive_on_update="false" label="2017 Bulletins/Communications" sequence="0" value="2017 Bulletins/Communications"/>
+                <element inactive_on_update="false" label="2017 Cost of Care" sequence="0" value="2017 Cost of Care"/>
+                <element inactive_on_update="false" label="2017 Digital - Run the Shop" sequence="0" value="2017 Digital - Run the Shop"/>
+                <element inactive_on_update="false" label="2017 Non-Project Specific - Forms" sequence="0" value="2017 Non-Project Specific - Forms"/>
+                <element inactive_on_update="false" label="2017 Non-Project Specific - Marketing" sequence="0" value="2017 Non-Project Specific - Marketing"/>
+                <element inactive_on_update="false" label="2018 Bulletins/Communications" sequence="0" value="2018 Bulletins/Communications"/>
+                <element inactive_on_update="false" label="2018 Cost of Care" sequence="0" value="2018 Cost of Care"/>
+                <element inactive_on_update="false" label="2018 Digital - Run the Shop" sequence="0" value="2018 Digital - Run the Shop"/>
+                <element inactive_on_update="false" label="2018 Non-Project Specific - Forms" sequence="0" value="2018 Non-Project Specific - Forms"/>
+                <element inactive_on_update="false" label="2018 Non-Project Specific - Marketing" sequence="0" value="2018 Non-Project Specific - Marketing"/>
+                <element inactive_on_update="false" label="2018 Sales Center Pages Revisions" sequence="0" value="2018 Sales Center Pages Revisions"/>
+                <element inactive_on_update="false" label="2019 B2B Group Marketing" sequence="0" value="2019 B2B Group Marketing"/>
+                <element inactive_on_update="false" label="2019 Bulletins/Communications" sequence="0" value="2019 Bulletins/Communications"/>
+                <element inactive_on_update="false" label="2019 Cost of Care" sequence="0" value="2019 Cost of Care"/>
+                <element inactive_on_update="false" label="2019 Digital - Run the Shop" sequence="0" value="2019 Digital - Run the Shop"/>
+                <element inactive_on_update="false" label="2019 LTC Individual Reengagement" sequence="0" value="2019 LTC Individual Reengagement"/>
+                <element inactive_on_update="false" label="2019 Non-Project Specific - Forms" sequence="0" value="2019 Non-Project Specific - Forms"/>
+                <element inactive_on_update="false" label="2019 Non-Project Specific - Marketing" sequence="0" value="2019 Non-Project Specific - Marketing"/>
+                <element inactive_on_update="false" label="2019 Sales Center Pages Revisions" sequence="0" value="2019 Sales Center Pages Revisions"/>
+                <element inactive_on_update="false" label="2019 SOCC Ads" sequence="0" value="2019 SOCC Ads"/>
+                <element inactive_on_update="false" label="2019 Telesales Contacts" sequence="0" value="2019 Telesales Contacts"/>
+                <element inactive_on_update="false" label="2020 - The Download Newsletter" sequence="0" value="2020 - The Download Newsletter"/>
+                <element inactive_on_update="false" label="2020 B2B Group Marketing" sequence="0" value="2020 B2B Group Marketing"/>
+                <element inactive_on_update="false" label="2020 Brand Projects" sequence="0" value="2020 Brand Projects"/>
+                <element inactive_on_update="false" label="2020 Bulletins/Communications" sequence="0" value="2020 Bulletins/Communications"/>
+                <element inactive_on_update="false" label="2020 Cost of Care" sequence="0" value="2020 Cost of Care"/>
+                <element inactive_on_update="false" label="2020 Digital - Run the Shop" sequence="0" value="2020 Digital - Run the Shop"/>
+                <element inactive_on_update="false" label="2020 Non-Project Specific - Forms" sequence="0" value="2020 Non-Project Specific - Forms"/>
+                <element inactive_on_update="false" label="2020 Non-Project Specific - Marketing" sequence="0" value="2020 Non-Project Specific - Marketing"/>
+                <element inactive_on_update="false" label="2021 Brand Projects" sequence="0" value="2021 Brand Projects"/>
+                <element inactive_on_update="false" label="2021 Bulletins/Communications" sequence="0" value="2021 Bulletins/Communications"/>
+                <element inactive_on_update="false" label="2021 Cost of Care" sequence="0" value="2021 Cost of Care"/>
+                <element inactive_on_update="false" label="2021 Digital Run the Shop" sequence="0" value="2021 Digital Run the Shop"/>
+                <element inactive_on_update="false" label="2021 Non-Project Specific Forms" sequence="0" value="2021 Non-Project Specific Forms"/>
+                <element inactive_on_update="false" label="2021 Non-Project Specific Marketing" sequence="0" value="2021 Non-Project Specific Marketing"/>
+                <element inactive_on_update="false" label="2Q19 Acquisition" sequence="0" value="2Q19 Acquisition"/>
+                <element inactive_on_update="false" label="Advance Sales Materials" sequence="0" value="Advance Sales Materials"/>
+                <element inactive_on_update="false" label="Associations/Affinity Projects" sequence="0" value="Associations/Affinity Projects"/>
+                <element inactive_on_update="false" label="Beyond Dollars" sequence="0" value="Beyond Dollars"/>
+                <element inactive_on_update="false" label="Beyond Dollars 2015" sequence="0" value="Beyond Dollars 2015"/>
+                <element inactive_on_update="false" label="Beyond Dollars OYB Promotion" sequence="0" value="Beyond Dollars OYB Promotion"/>
+                <element inactive_on_update="false" label="CareScout" sequence="0" value="CareScout"/>
+                <element inactive_on_update="false" label="CareScout B2B Sales Emails" sequence="0" value="CareScout B2B Sales Emails"/>
+                <element inactive_on_update="false" label="Claims LTCI Stories" sequence="0" value="Claims LTCI Stories"/>
+                <element inactive_on_update="false" label="Combo Product" sequence="0" value="Combo Product"/>
+                <element inactive_on_update="false" label="Consolidated Client Workshops - 2016" sequence="0" value="Consolidated Client Workshops - 2016"/>
+                <element inactive_on_update="false" label="COVID-19 Updates" sequence="0" value="COVID-19 Updates"/>
+                <element inactive_on_update="false" label="Customer Service Projects (Lynchburg)" sequence="0" value="Customer Service Projects (Lynchburg)"/>
+                <element inactive_on_update="false" label="Element Launch" sequence="0" value="Element Launch"/>
+                <element inactive_on_update="false" label="Flex 3 Additional States" sequence="0" value="Flex 3 Additional States"/>
+                <element inactive_on_update="false" label="Group LTC 7053 New Red" sequence="0" value="Group LTC 7053 New Red"/>
+                <element inactive_on_update="false" label="Group LTC 7053 Old Red" sequence="0" value="Group LTC 7053 Old Red"/>
+                <element inactive_on_update="false" label="Group LTC 7054" sequence="0" value="Group LTC 7054"/>
+                <element inactive_on_update="false" label="Group LTC California Marketing Materials" sequence="0" value="Group LTC California Marketing Materials"/>
+                <element inactive_on_update="false" label="Group LTC Retargeting Project" sequence="0" value="Group LTC Retargeting Project"/>
+                <element inactive_on_update="false" label="IFA Bulletins" sequence="0" value="IFA Bulletins"/>
+                <element inactive_on_update="false" label="IFA Bulletins 2016" sequence="0" value="IFA Bulletins 2016"/>
+                <element inactive_on_update="false" label="IFA Consumer Website" sequence="0" value="IFA Consumer Website"/>
+                <element inactive_on_update="false" label="IFA Producer Resources" sequence="0" value="IFA Producer Resources"/>
+                <element inactive_on_update="false" label="INA Rename Project" sequence="0" value="INA Rename Project"/>
+                <element inactive_on_update="false" label="LTC Group 7054 Forms" sequence="0" value="LTC Group 7054 Forms"/>
+                <element inactive_on_update="false" label="LTC New Group Forms" sequence="0" value="LTC New Group Forms"/>
+                <element inactive_on_update="false" label="Monthly TRPs" sequence="0" value="Monthly TRPs"/>
+                <element inactive_on_update="false" label="MyGenworth.com" sequence="0" value="MyGenworth.com"/>
+                <element inactive_on_update="false" label="New Online Chat Functionality" sequence="0" value="New Online Chat Functionality"/>
+                <element inactive_on_update="false" label="NewCo - Forms" sequence="0" value="NewCo - Forms"/>
+                <element inactive_on_update="false" label="NewCo - Marketing" sequence="0" value="NewCo - Marketing"/>
+                <element inactive_on_update="false" label="Non-Project Specific 2016 - Forms" sequence="0" value="Non-Project Specific 2016 - Forms"/>
+                <element inactive_on_update="false" label="Non-Project Specific 2016 - Marketing" sequence="0" value="Non-Project Specific 2016 - Marketing"/>
+                <element inactive_on_update="false" label="Non-Project Specific 2017 - Forms" sequence="0" value="Non-Project Specific 2017 - Forms"/>
+                <element inactive_on_update="false" label="Non-Project Specific 2017 - Marketing" sequence="0" value="Non-Project Specific 2017 - Marketing"/>
+                <element inactive_on_update="false" label="Non-Project Specific 2018 - Forms" sequence="0" value="Non-Project Specific 2018 - Forms"/>
+                <element inactive_on_update="false" label="Non-Project Specific 2018 - Marketing" sequence="0" value="Non-Project Specific 2018 - Marketing"/>
+                <element inactive_on_update="false" label="Non-Project Specific 2019 - Forms" sequence="0" value="Non-Project Specific 2019 - Forms"/>
+                <element inactive_on_update="false" label="Non-Project Specific 2019 - Marketing" sequence="0" value="Non-Project Specific 2019 - Marketing"/>
+                <element inactive_on_update="false" label="Non-Project Specific Forms - 2020" sequence="0" value="Non-Project Specific Forms - 2020"/>
+                <element inactive_on_update="false" label="Non-Project Specific Marketing - 2020" sequence="0" value="Non-Project Specific Marketing - 2020"/>
+                <element inactive_on_update="false" label="Oceanwide/Genworth Acquisition Announcements" sequence="0" value="Oceanwide/Genworth Acquisition Announcements"/>
+                <element inactive_on_update="false" label="Online Chat Systems Scripts and Training" sequence="0" value="Online Chat Systems Scripts and Training"/>
+                <element inactive_on_update="false" label="Partnership - Underwritten SPIA - Core Product Materials" sequence="0" value="Partnership - Underwritten SPIA - Core Product Materials"/>
+                <element inactive_on_update="false" label="Performance Numbers" sequence="0" value="Performance Numbers"/>
+                <element inactive_on_update="false" label="Prela" sequence="0" value="Prela"/>
+                <element inactive_on_update="false" label="Proper LTC Campaign" sequence="0" value="Proper LTC Campaign"/>
+                <element inactive_on_update="false" label="Recomply" sequence="0" value="Recomply"/>
+                <element inactive_on_update="false" label="Red Dot Campaign" sequence="0" value="Red Dot Campaign"/>
+                <element inactive_on_update="false" label="RIA Marketing Materials" sequence="0" value="RIA Marketing Materials"/>
+                <element inactive_on_update="false" label="Savings Campaign" sequence="0" value="Savings Campaign"/>
+                <element inactive_on_update="false" label="ServeCo" sequence="0" value="ServeCo"/>
+                <element inactive_on_update="false" label="Telesales" sequence="0" value="Telesales"/>
+                <element inactive_on_update="false" label="Telesales Contacts" sequence="0" value="Telesales Contacts"/>
+                <element inactive_on_update="false" label="Telesales Training" sequence="0" value="Telesales Training"/>
+                <element inactive_on_update="false" label="Time is Money Campaign" sequence="0" value="Time is Money Campaign"/>
+                <element inactive_on_update="false" label="Tranzact Marketing" sequence="0" value="Tranzact Marketing"/>
+                <element inactive_on_update="false" label="Underwriting:Multi Stage &amp; Expanded Impairments" sequence="0" value="Underwriting:Multi Stage &amp; Expanded Impairments"/>
+                <element inactive_on_update="false" label="xxxTest Onlyxxx" sequence="0" value="xxxTest Onlyxxx"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="No Business Review Reason" max_length="40" name="no_business_review_reason" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Business Review Already Complete (Indicate Reviewers)" sequence="0" value="Business Review Already Complete (Indicate Reviewers)"/>
+                <element inactive_on_update="false" label="Correcting Minor Typo" sequence="0" value="Correcting Minor Typo"/>
+                <element inactive_on_update="false" label="Internal Use Only" sequence="0" value="Internal Use Only"/>
+                <element inactive_on_update="false" label="Other Reason - Please Describe on Chat Board" sequence="0" value="Other Reason - Please Describe on Chat Board"/>
+                <element inactive_on_update="false" label="State Mandated Change" sequence="0" value="State Mandated Change"/>
+                <element inactive_on_update="false" label="Updating Bracketed Content" sequence="0" value="Updating Bracketed Content"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="No Compliance Review Reason" max_length="40" name="no_compliance_review_reason" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Compliance Exempt Material" sequence="0" value="Compliance Exempt Material"/>
+                <element inactive_on_update="false" label="Correcting Minor Typo" sequence="0" value="Correcting Minor Typo"/>
+                <element inactive_on_update="false" label="Internal Use Only" sequence="0" value="Internal Use Only"/>
+                <element inactive_on_update="false" label="MarOps Comply Eligible" sequence="0" value="MarOps Comply Eligible"/>
+                <element inactive_on_update="false" label="Non-Compliance Changes" sequence="0" value="Non-Compliance Changes"/>
+                <element inactive_on_update="false" label="Other Reason - Please Describe in Notes" sequence="0" value="Other Reason - Please Describe in Notes"/>
+                <element inactive_on_update="false" label="State Mandated Change" sequence="0" value="State Mandated Change"/>
+                <element inactive_on_update="false" label="Updating Bracketed Content" sequence="0" value="Updating Bracketed Content"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Print NIGO Reason" max_length="40" name="print_nigo_reason" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Error found on material" sequence="0" value="Error found on material"/>
+                <element inactive_on_update="false" label="Other reason" sequence="0" value="Other reason"/>
+                <element inactive_on_update="false" label="Print instructions missing/unclear" sequence="0" value="Print instructions missing/unclear"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Priority Level" max_length="40" name="priority_level" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="High" sequence="0" value="High"/>
+                <element inactive_on_update="false" label="Low" sequence="0" value="Low"/>
+                <element inactive_on_update="false" label="Medium" sequence="0" value="Medium"/>
+                <element inactive_on_update="false" label="None" sequence="0" value="None"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="QC NIGO Reason" max_length="40" name="qc_nigo_reason" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Data input is incorrect" sequence="0" value="Data input is incorrect"/>
+                <element inactive_on_update="false" label="Documents missing" sequence="0" value="Documents missing"/>
+                <element inactive_on_update="false" label="Final does not match compliance markup" sequence="0" value="Final does not match compliance markup"/>
+                <element inactive_on_update="false" label="Other reason" sequence="0" value="Other reason"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Recomply Required?" max_length="40" name="recomply_required" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" sequence="0" value="No"/>
+                <element inactive_on_update="false" label="One Time Use" sequence="0" value="One Time Use"/>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+            </choice>
+        </element>
+        <element label="Requested for" max_length="32" name="requested_for" reference="sys_user" reference_qual="gs.getUserID();" reference_qual_condition="gs.getUserID();" type="reference"/>
+        <element choice="3" default="Creative" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Creative" sequence="100" value="Creative"/>
+                <element inactive_on_update="false" label="Review" sequence="200" value="Review"/>
+                <element inactive_on_update="false" label="Traffic" sequence="300" value="Traffic"/>
+                <element inactive_on_update="false" label="Web" sequence="400" value="Web"/>
+                <element inactive_on_update="false" label="QC" sequence="500" value="QC"/>
+                <element inactive_on_update="false" label="Compliance" sequence="600" value="Compliance"/>
+                <element inactive_on_update="false" label="Filing" sequence="700" value="Filing"/>
+                <element inactive_on_update="false" label="Complete" sequence="800" value="Complete"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="State Filing Status?" max_length="40" name="state_filing_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approval Received" sequence="0" value="Approval Received"/>
+                <element inactive_on_update="false" label="Final Approval Received, Filing Complete" sequence="0" value="Final Approval Received, Filing Complete"/>
+                <element inactive_on_update="false" label="Objection Received" sequence="0" value="Objection Received"/>
+            </choice>
+        </element>
+        <element choice="1" label="Sub state" max_length="40" name="sub_state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Begin Project" value="Begin Project"/>
+                <element inactive_on_update="false" label="Business Review" value="Business Review"/>
+                <element inactive_on_update="false" label="Cancelled - never in use" value="Cancelled - never in use"/>
+                <element inactive_on_update="false" label="Closed" value="Closed"/>
+                <element inactive_on_update="false" label="Compliance" value="Compliance"/>
+                <element inactive_on_update="false" label="Copy" value="Copy"/>
+                <element inactive_on_update="false" label="Creative" value="Creative"/>
+                <element inactive_on_update="false" label="Creative Review" value="Creative Review"/>
+                <element inactive_on_update="false" label="Final Review" value="Final Review"/>
+                <element inactive_on_update="false" label="InUse" value="InUse"/>
+                <element inactive_on_update="false" label="Prep for QC" value="Prep for QC"/>
+                <element inactive_on_update="false" label="QC" value="QC"/>
+                <element inactive_on_update="false" label="StateFiling" value="StateFiling"/>
+                <element inactive_on_update="false" label="Traffic" value="Traffic"/>
+                <element inactive_on_update="false" label="Web Build" value="Web Build"/>
+                <element inactive_on_update="false" label="Web Final Validation" value="Web Final Validation"/>
+                <element inactive_on_update="false" label="Web Review" value="Web Review"/>
+                <element inactive_on_update="false" label="Web Validation" value="Web Validation"/>
+            </choice>
+        </element>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Types of States Approved" max_length="40" name="types_of_states_approved" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="All but NY" sequence="0" value="All but NY"/>
+                <element inactive_on_update="false" label="All States" sequence="0" value="All States"/>
+                <element inactive_on_update="false" label="ICC States (Linked Benefits)" sequence="0" value="ICC States (Linked Benefits)"/>
+                <element inactive_on_update="false" label="ICC States (LTC)" sequence="0" value="ICC States (LTC)"/>
+                <element inactive_on_update="false" label="Non-ICC States (Linked Benefits)" sequence="0" value="Non-ICC States (Linked Benefits)"/>
+                <element inactive_on_update="false" label="Non-ICC States (LTC)" sequence="0" value="Non-ICC States (LTC)"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Types of States Filed" max_length="40" name="types_of_states_filed" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="All but NY" sequence="0" value="All but NY"/>
+                <element inactive_on_update="false" label="All States" sequence="0" value="All States"/>
+                <element inactive_on_update="false" label="ICC States (Linked Benefits)" sequence="0" value="ICC States (Linked Benefits)"/>
+                <element inactive_on_update="false" label="ICC States (LTC)" sequence="0" value="ICC States (LTC)"/>
+                <element inactive_on_update="false" label="Non-ICC States (Linked Benefits)" sequence="0" value="Non-ICC States (Linked Benefits)"/>
+                <element inactive_on_update="false" label="Non-ICC States (LTC)" sequence="0" value="Non-ICC States (LTC)"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Types of States of Use" max_length="40" name="types_of_states_of_use" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="All but NY" sequence="0" value="All but NY"/>
+                <element inactive_on_update="false" label="All INA States" sequence="0" value="All INA States"/>
+                <element inactive_on_update="false" label="All LTC States" sequence="0" value="All LTC States"/>
+                <element inactive_on_update="false" label="All States" sequence="0" value="All States"/>
+                <element inactive_on_update="false" label="ICC States (Linked Benefits)" sequence="0" value="ICC States (Linked Benefits)"/>
+                <element inactive_on_update="false" label="ICC States (LTC)" sequence="0" value="ICC States (LTC)"/>
+                <element inactive_on_update="false" label="Non-ICC States (Linked Benefits)" sequence="0" value="Non-ICC States (Linked Benefits)"/>
+                <element inactive_on_update="false" label="Non-ICC States (LTC)" sequence="0" value="Non-ICC States (LTC)"/>
+                <element inactive_on_update="false" label="NY Only" sequence="0" value="NY Only"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Types of States to File" max_length="40" name="types_of_states_to_file" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="All but NY" sequence="0" value="All but NY"/>
+                <element inactive_on_update="false" label="All States" sequence="0" value="All States"/>
+                <element inactive_on_update="false" label="ICC States (Linked Benefits)" sequence="0" value="ICC States (Linked Benefits)"/>
+                <element inactive_on_update="false" label="ICC States (LTC)" sequence="0" value="ICC States (LTC)"/>
+                <element inactive_on_update="false" label="Non-ICC States (Linked Benefits)" sequence="0" value="Non-ICC States (Linked Benefits)"/>
+                <element inactive_on_update="false" label="Non-ICC States (LTC)" sequence="0" value="Non-ICC States (LTC)"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type of Review" max_length="40" name="type_of_review" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="E-Review" sequence="0" value="E-Review"/>
+                <element inactive_on_update="false" label="MarOps Review" sequence="0" value="MarOps Review"/>
+                <element inactive_on_update="false" label="Session" sequence="0" value="Session"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Unit of Measure Type" max_length="40" name="unit_of_measure_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Carton" sequence="0" value="Carton"/>
+                <element inactive_on_update="false" label="Each" sequence="0" value="Each"/>
+                <element inactive_on_update="false" label="Pack" sequence="0" value="Pack"/>
+                <element inactive_on_update="false" label="Pad" sequence="0" value="Pad"/>
+                <element inactive_on_update="false" label="Roll" sequence="0" value="Roll"/>
+                <element inactive_on_update="false" label="Set" sequence="0" value="Set"/>
+                <element inactive_on_update="false" label="Sheet" sequence="0" value="Sheet"/>
+                <element inactive_on_update="false" label="Tube" sequence="0" value="Tube"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Vendor Name" max_length="40" name="vendor_name" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Other" sequence="0" value="Other"/>
+                <element inactive_on_update="false" label="Toppan/Merrill Corp" sequence="0" value="Toppan/Merrill Corp"/>
+                <element inactive_on_update="false" label="TSG (Technical Services Group)" sequence="0" value="TSG (Technical Services Group)"/>
+                <element inactive_on_update="false" label="Worth Higgins &amp; Associates" sequence="0" value="Worth Higgins &amp; Associates"/>
+            </choice>
+        </element>
+        <element label="Work notes" max_length="4000" name="work_notes" type="journal_input"/>
+        <index name="index">
+            <element name="activity"/>
+        </index>
+        <index name="index2">
+            <element name="document"/>
+        </index>
+        <index name="index3">
+            <element name="requested_for"/>
+        </index>
+        <index name="index4">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

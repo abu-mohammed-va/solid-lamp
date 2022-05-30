@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="sub_state" table="x_217463_digital_0_u_cmdb_ci_product" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>sub_state</element>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:21:49</sys_created_on>
+            <sys_id>ddcb0e992f9001105706e83df699b604</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sub_state</sys_name>
+            <sys_package display_value="Digital Assets" source="x_217463_digital_0">781d21552f1001105706e83df699b63d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Digital Assets">781d21552f1001105706e83df699b63d</sys_scope>
+            <sys_update_name>sys_choice_x_217463_digital_0_u_cmdb_ci_product_sub_state</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:21:49</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Begin Project</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:21:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dbbbca992f9001105706e83df699b696</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:21:49</sys_updated_on>
+            <value>Begin Project</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Business Review</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:22:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>85dbca992f9001105706e83df699b66f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:22:05</sys_updated_on>
+            <value>Business Review</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:23:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c3cce992f9001105706e83df699b68d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:23:40</sys_updated_on>
+            <value>Closed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Compliance</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:22:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>840cca992f9001105706e83df699b639</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:22:50</sys_updated_on>
+            <value>Compliance</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Copy</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:31:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e0fdca1d2f9001105706e83df699b603</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:31:20</sys_updated_on>
+            <value>Copy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Creative</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:22:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a6eb82992f9001105706e83df699b63b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:22:28</sys_updated_on>
+            <value>Creative</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Creative Review</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:22:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>56fb0a992f9001105706e83df699b649</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:22:43</sys_updated_on>
+            <value>Creative Review</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Final Review</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:22:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5d0c0a992f9001105706e83df699b65b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:22:55</sys_updated_on>
+            <value>Final Review</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>InUse</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:23:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>061c0a992f9001105706e83df699b6ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:23:14</sys_updated_on>
+            <value>InUse</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Prep for QC</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:23:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f60c02d92f9001105706e83df699b663</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:23:01</sys_updated_on>
+            <value>Prep for QC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>QC</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:23:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>241c0a992f9001105706e83df699b6d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:23:08</sys_updated_on>
+            <value>QC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>StateFiling</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:23:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ab1c02d92f9001105706e83df699b6fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:23:21</sys_updated_on>
+            <value>StateFiling</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Traffic</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:21:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>57cb8a992f9001105706e83df699b68e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:21:58</sys_updated_on>
+            <value>Traffic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Web Activation</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:31:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6c1eca1d2f9001105706e83df699b66e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:31:53</sys_updated_on>
+            <value>Web Activation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Web Build</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:31:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>86fdca1d2f9001105706e83df699b60a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:31:26</sys_updated_on>
+            <value>Web Build</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Web Final Validation</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:31:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fffd8e992f9001105706e83df699b679</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:31:34</sys_updated_on>
+            <value>Web Final Validation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Web Process</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:23:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>112cce992f9001105706e83df699b6d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:23:28</sys_updated_on>
+            <value>Web Process</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Web Review</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e50e0e992f9001105706e83df699b60f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:31:40</sys_updated_on>
+            <value>Web Review</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Web Validation</label>
+            <language>en</language>
+            <name>x_217463_digital_0_u_cmdb_ci_product</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 13:31:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>470ece992f9001105706e83df699b6fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 13:31:47</sys_updated_on>
+            <value>Web Validation</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

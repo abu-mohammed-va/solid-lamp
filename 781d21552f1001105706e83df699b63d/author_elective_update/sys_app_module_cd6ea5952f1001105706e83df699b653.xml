@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Digital 0 1638875605632</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_217463_digital_0_1638875605632</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-07 11:13:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cd6ea5952f1001105706e83df699b653</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Digital 0 1638875605632</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Digital Assets" source="x_217463_digital_0">781d21552f1001105706e83df699b63d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Digital Assets">781d21552f1001105706e83df699b63d</sys_scope>
+        <sys_update_name>sys_app_module_cd6ea5952f1001105706e83df699b653</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-07 11:13:28</sys_updated_on>
+        <timeline_page/>
+        <title>Digital 0 1638875605632</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Digital Assets">781d21552f1001105706e83df699b63d</application>
+        <file_path/>
+        <instance_id>cbc77a4edb13c41842b321c405961993</instance_id>
+        <instance_name>dev102093</instance_name>
+        <name>sys_app_module_cd6ea5952f1001105706e83df699b653</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Digital 0 1638875605632</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_217463_digital_0_1638875605632</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-07 11:13:28</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cd6ea5952f1001105706e83df699b653</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Digital 0 1638875605632</sys_name><sys_overrides/><sys_package display_value="Digital Assets" source="x_217463_digital_0">781d21552f1001105706e83df699b63d</sys_package><sys_policy/><sys_scope display_value="Digital Assets">781d21552f1001105706e83df699b63d</sys_scope><sys_update_name>sys_app_module_cd6ea5952f1001105706e83df699b653</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-07 11:13:28</sys_updated_on><timeline_page/><title>Digital 0 1638875605632</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1616525096</payload_hash>
+        <record_name>Digital 0 1638875605632</record_name>
+        <reverted_from/>
+        <source>fb4da5552f1001105706e83df699b690</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-07 11:13:28</sys_created_on>
+        <sys_id>816ea5952f1001105706e83df699b657</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d949937380000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-07 11:13:28</sys_updated_on>
+        <type>Module</type>
+        <update_guid>c96ea595271001103cc92ed33bd08f56</update_guid>
+        <update_guid_history>c96ea595271001103cc92ed33bd08f56:-1616525096</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Digital 0 1638875605632">797e29952f1001105706e83df699b6ff</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-07 11:13:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>b94514705bb64f4da2cd48e378fb1141</sys_id>
+        <sys_metadata>cd6ea5952f1001105706e83df699b653</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Digital 0 1638875605632</sys_name>
+        <sys_package display_value="Digital Assets" source="x_217463_digital_0">781d21552f1001105706e83df699b63d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Digital Assets">781d21552f1001105706e83df699b63d</sys_scope>
+        <sys_scope_delete display_value="">3dbfae79a5394601854deaca8a6684b1</sys_scope_delete>
+        <sys_update_name>sys_app_module_cd6ea5952f1001105706e83df699b653</sys_update_name>
+        <sys_update_version display_value="sys_app_module_cd6ea5952f1001105706e83df699b653">816ea5952f1001105706e83df699b657</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-07 11:13:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

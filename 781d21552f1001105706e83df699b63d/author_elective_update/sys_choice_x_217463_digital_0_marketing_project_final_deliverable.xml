@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="final_deliverable" table="x_217463_digital_0_marketing_project" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>final_deliverable</element>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:37</sys_created_on>
+            <sys_id>d4924a5d2f5001105706e83df699b6fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>final_deliverable</sys_name>
+            <sys_package display_value="Digital Assets" source="x_217463_digital_0">781d21552f1001105706e83df699b63d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Digital Assets">781d21552f1001105706e83df699b63d</sys_scope>
+            <sys_update_name>sys_choice_x_217463_digital_0_marketing_project_final_deliverable</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:37</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_deliverable</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Event AV support only</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4692ca5d2f5001105706e83df699b665</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:44</sys_updated_on>
+            <value>Event AV support only</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_deliverable</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>File for Live Event Playback</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>34928a5d2f5001105706e83df699b667</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:40</sys_updated_on>
+            <value>File for Live Event Playback</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_deliverable</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>File for web or mobile deployment(if chosen, indicate the file type and website name)</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c924a5d2f5001105706e83df699b6fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:37</sys_updated_on>
+            <value>File for web or mobile deployment(if chosen, indicate the file type and website name)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_deliverable</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>File to embed in PowerPoint(if chosen, indicate the file type)</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9d928a5d2f5001105706e83df699b6bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:41</sys_updated_on>
+            <value>File to embed in PowerPoint(if chosen, indicate the file type)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_deliverable</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>N/A</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0a92ca5d2f5001105706e83df699b67b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:45</sys_updated_on>
+            <value>N/A</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_deliverable</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other media types(specify)</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bd92ca5d2f5001105706e83df699b62c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:43</sys_updated_on>
+            <value>Other media types(specify)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>final_deliverable</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Photo files or prints(specify)</label>
+            <language>en</language>
+            <name>x_217463_digital_0_marketing_project</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 12:41:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2d928a5d2f5001105706e83df699b6fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 12:41:43</sys_updated_on>
+            <value>Photo files or prints(specify)</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
